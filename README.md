@@ -1,4 +1,6 @@
-# angular End-to-end tests with Protractor (deprecated by Google)
+# Angular End-to-end tests with Protractor (deprecated by Google)
+
+Write an end-to-end test using page object and Jasmine spec file.
 
 ```ts
 # Page object (CSS selection, navigation)
